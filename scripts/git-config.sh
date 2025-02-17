@@ -1,5 +1,5 @@
-git config --global user.name "Matthias Grob"
-git config --global user.email "maetugr@gmail.com"
+git config --global user.name "Claudio Chies"
+git config --global user.email "chiesc@ethz.ch"
 git config --global merge.conflictstyle diff3
 git config --global core.editor "nano" # for terminal only
 git config --global core.editor "code --wait"
