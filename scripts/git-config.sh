@@ -7,3 +7,4 @@ git config --global sequence.editor "code --wait"
 git config --global pull.ff only
 git config --global core.pager "less -FX" # only use pager if output doesn't fit on terminal
 git config --global pager.branch false
+git config --global init.defaultBranch main
